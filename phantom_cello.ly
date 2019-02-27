@@ -36,7 +36,7 @@
     d8^"rit." d d d d d d d | \break
     \key bes \major
     \mark \default
-    d4^"Music of the Night"\f f, c' \mark "Largo, voice-like" f, |
+    d4^"Music of the Night"\f f, c' \mark "Largo, voice-like" f, |
     bes8 c d ees c4 f |
     d f, c' f, |
     bes8 c d ees c4 f |
@@ -46,7 +46,7 @@
     f4 r r r8 d |
     d^"rit."\> c c d ees f d c\! | \break
     \mark \default
-    bes f'^"All I Ask of You" \mark "Adagio" g f g2 |
+    bes^"All I Ask of You" \mark "Adagio" f' g f g2 |
     c,8 g c c f4 f8 ees |
     ees bes' d4 g,2 |
     c f,4 f |
