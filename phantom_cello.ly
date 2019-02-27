@@ -11,10 +11,8 @@
     \numericTimeSignature
     \time 4/4
     d1~^"Phantom of the Opera" d2 d8 des c b | 
-    bes bes bes bes bes bes bes bes |
-    aes bes bes bes bes bes bes bes |
-    d1~ d2 d8 des c b |
-    bes bes bes bes bes bes bes bes |
+    \repeat unfold 8 {bes} aes \repeat unfold 7 {bes} |
+    d1~ d2 d8 des c b \repeat unfold 8 {bes} |
     aes bes r4 bes8 b c cis |
     d\> d d d d d d d |
     d\mf d d d d d d d |
@@ -66,13 +64,14 @@
         \smaller \general-align #X #DOWN \note #"2" #-1
       }
     }
-    bes,4. bes bes bes bes bes bes bes bes bes bes bes bes bes |
+    bes,4.^"Angel of Music" bes bes bes bes bes bes bes bes bes bes bes bes bes |
     bes bes8 d, f |
     g4. g |
     bes2. |
     c4. c4. |
     c, d8 ees f |
     bes4. f bes2. |
+    c,4. c' f,8 f f f f f |
   }
 
   \layout {}
