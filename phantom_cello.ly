@@ -36,7 +36,7 @@
     d8^"rit." d d d d d d d | \break
     \key bes \major
     \mark \default
-    d4^"Music of the Night"\f f, c' \mark "Largo, voice-like" f, |
+    d4^"Music of the Night"\f f, \mark "Largo, voice-like" c' f, |
     bes8 c d ees c4 f |
     d f, c' f, |
     bes8 c d ees c4 f |
