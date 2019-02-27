@@ -46,7 +46,7 @@
     f4 r r r8 d |
     d^"rit."\> c c d ees f d c\! | \break
     \mark \default
-    bes^"All I Ask of You" \mark "Adagio" f' g f g2 |
+    bes^"All I Ask of You" \mark "Adagio" f' g f g2 |
     c,8 g c c f4 f8 ees |
     ees bes' d4 g,2 |
     c f,4 f |
