@@ -55,8 +55,8 @@
     ees ees4 ees8 f a f ees |
     f2 r | \break
     \time 6/8
-    \once \override Score.RehearsalMark.self-alignment-X = #LEFT
     \mark \default
+    bes,4.^"Angel of Music"
     \tempo \markup {
       \right-align \concat {
         \smaller \right-align \note #"4." #-1
@@ -64,7 +64,7 @@
         \smaller \general-align #X #DOWN \note #"2" #-1
       }
     }
-    bes,4.^"Angel of Music" bes bes bes bes bes bes bes bes bes bes bes bes bes |
+    bes bes bes bes bes bes bes bes bes bes bes bes bes |
     bes bes8 d, f |
     g4. g |
     bes2. |
