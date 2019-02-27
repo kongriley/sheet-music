@@ -56,7 +56,6 @@
     f2 r | \break
     \time 6/8
     \mark \default
-    bes,4.^"Angel of Music"
     \tempo \markup {
       \right-align \concat {
         \smaller \right-align \note #"4." #-1
@@ -64,7 +63,7 @@
         \smaller \general-align #X #DOWN \note #"2" #-1
       }
     }
-    bes bes bes bes bes bes bes bes bes bes bes bes bes |
+    bes,4.^"Angel of Music" bes bes bes bes bes bes bes bes bes bes bes bes bes |
     bes bes8 d, f |
     g4. g |
     bes2. |
