@@ -17,7 +17,8 @@ treble = \relative c' {
   r4 r8 q8~ q4 <fis c'> \bar "||"
   \repeat percent 2 {<f bes>1}
   \repeat percent 3 {<g c>}
-  <g c>2. <fis c'>4 <f bes>1 
+  <g c>2. <fis c'>4 <f bes>1
+   
 }
 
 bass = \relative c' {
@@ -38,6 +39,7 @@ bass = \relative c' {
   \repeat percent 2 {<g c>1}
   \repeat percent 3 {<aes ees'>}
   <aes d>2. q4 <g c>1
+  <ges c> <f bes>2 <g d>
 }
 
 \score {
