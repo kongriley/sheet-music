@@ -48,12 +48,12 @@
     \tuplet 5/4 {e8^\markup{\italic rit.} g cis bes a} 
     d,1^\markup {\halign #-0.5 {\italic "a tempo"}} r1
     bes'8 c d d~ d2
-    r4 bes a g f r2
+    r4 bes a g f2 r
     r1 bes8 a g c~ c2
     e2\fermata \breathe
     \tuplet 5/4 {cis8^\markup{\italic rit.} a cis e f} 
-    f^\markup{\halign #-0.5 {\italic "a tempo"}}
-    r2 a'\fermata
+    f1^\markup{\halign #-0.5 {\italic "a tempo"}}
+    r2 a\fermata
   }
 
   \layout {}
