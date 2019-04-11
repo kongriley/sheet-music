@@ -1,5 +1,6 @@
  \header {
-  title = "Roslyn and Chanel"
+  title = "City of Stars"
+  subtitle = "Violin 2"
 }
 
 \score {
